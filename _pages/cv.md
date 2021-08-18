@@ -24,7 +24,7 @@ Work experience
   * University of California, Riverside
   * Supervisor: Linlin Zhao
   
-Publication
+Publications
 ======
 1.  Liu, C. +; Zou, G.+; Peng, S; Wang, Y; Yang, W; Wu, F; Jiang, Z; Zhang, X; Zhou, X.*, 5‐Formyluracil as a Multifunctional Building Block in Biosensor Designs; Angew. Chem. Int. Ed. 2018,57,9689–9693. (IF: 15.336)
 2.   Liu, C. +; Wang, Y. +; Yang, W.; Wu, F.; Zeng, W.; Chen, Z.; Huang, J.; Zou, G.; Zhang, X.; Wang, S.; Zhou, X.*; Fluorogenic labeling and single-base resolution analysis of 5-formylcytosine in DNA. Chem. Sci. 2017,8(11), 7443-7447. (IF: 9.825)
